@@ -80,5 +80,4 @@ done
 zip -r ../calibre-plugin.zip *
 
 popd
-rm -rf calibre-plugin-tmp
 
